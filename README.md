@@ -8,7 +8,7 @@ This repository provides a detailed exploration of over 100,000 orders from 2016
 
 ## Repository Structure
 
-- `data`: A compilation of raw and processed datasets, forming the backbone of the analysis.
+- `data`: A compilation of raw and processed datasets, forming the backbone of the analysis. Note: Due to the large size of the datasets, actual data files are not stored in this repository.
 - `scripts`: The analytical core, featuring Python scripts that detail the data processing and exploratory analysis.
 - `visualizations`: This folder includes supplementary visualization materials and links to detailed visualizations hosted on Tableau.
 

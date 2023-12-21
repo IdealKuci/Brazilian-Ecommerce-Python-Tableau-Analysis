@@ -8,9 +8,9 @@ This repository provides a detailed exploration of over 100,000 orders from 2016
 
 ## Repository Structure
 
-- `data`: A compilation of raw and processed datasets, forming the backbone of the analysis. Note: Due to the large size of the datasets, actual data files are not stored in this repository.
+- `data`: A compilation of raw and processed datasets, forming the backbone of the analysis.
 - `scripts`: The analytical core, featuring Python scripts that detail the data processing and exploratory analysis.
-- `visualizations`: Contains a sample of visualizations created during the analysis, including a map and key dashboard views.
+- `visualizations`: This folder includes supplementary visualization materials and links to detailed visualizations hosted on Tableau.
 
 ## Insights and Analysis
 
@@ -32,10 +32,10 @@ The conclusions and strategic recommendations from this analysis are detailed in
 ## How to Navigate
 
 - The `scripts` folder contains Python scripts for analysis. These can be reviewed for understanding the analytical methodologies used.
-- The `visualizations` folder showcases examples of the visualizations developed during the project.
-- Detailed insights and conclusions are presented on Tableau Public, accessible through the link provided.
+- The `visualizations` folder includes supplementary materials and references to the comprehensive visualizations on Tableau Public.
 
 ## Collaboration and Feedback
 
 Contributions, critiques, and discussions are welcome to further enrich this analysis. Feel free to explore the repository, suggest improvements, or reach out for further discussion.
+
 

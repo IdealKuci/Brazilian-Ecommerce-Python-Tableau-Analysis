@@ -1,10 +1,9 @@
 # Brazilian E-Commerce Data Analysis
 
-Delve into the burgeoning Brazilian e-commerce market through a meticulous analysis of the Olist dataset, utilizing Python for data manipulation and Tableau for revealing pivotal insights.
-
+Examine the growing Brazilian e-commerce market with a detailed look at the Olist dataset, using Python for handling the data and Tableau to highlight important findings.
 ## Project Overview
 
-This repository provides a detailed exploration of over 100,000 orders from 2016-2018, dissecting aspects of online retail from sales distribution, product trends, to consumer behaviors, all enriched with geolocation data. The analysis aims to offer stakeholders a strategic vantage point for informed decision-making.
+This repository offers an in-depth look at more than 100,000 orders between 2016 and 2018, examining online retail details like sales patterns, product popularity, and customer habits,  all enriched with geolocation data. The goal is to give stakeholders useful insights for making smart decisions.
 
 ## Repository Structure
 
@@ -23,11 +22,9 @@ This repository provides a detailed exploration of over 100,000 orders from 2016
 
 - [Olist Dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 - [Geolocation JSON File](https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson/data)
-- [Tableau Visualizations](https://public.tableau.com/app/profile/ideal.kuci/viz/UnveilingtheDynamicsofBrazilianE-CommerceInsightsfromtheOlistDataset/IntroStory)(https://public.tableau.com/app/profile/ideal.kuci/viz/UnveilingtheDynamicsofBrazilianE-CommerceInsightsfromtheOlistDataset/FullStory)
+- [Tableau Visualizations](https://public.tableau.com/app/profile/ideal.kuci/viz/UnveilingtheDynamicsofBrazilianE-CommerceInsightsfromtheOlistDataset/FullStory)
 
-## Conclusions and Recommendations
-
-The conclusions and strategic recommendations from this analysis are detailed in the interactive Tableau dashboard. For a comprehensive overview, please visit the [Tableau Visualization](https://public.tableau.com/app/profile/ideal.kuci/viz/UnveilingtheDynamicsofBrazilianE-CommerceInsightsfromtheOlistDataset/IntroStory).
+The conclusions and strategic recommendations from this analysis are detailed in the interactive Tableau dashboard. For a comprehensive overview, please visit the [Tableau Visualization](https://public.tableau.com/app/profile/ideal.kuci/viz/UnveilingtheDynamicsofBrazilianE-CommerceInsightsfromtheOlistDataset/FullStory).
 
 ## How to Navigate
 

@@ -23,7 +23,7 @@ This repository provides a detailed exploration of over 100,000 orders from 2016
 
 - [Olist Dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 - [Geolocation JSON File](https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson/data)
-- [Tableau Visualizations](https://public.tableau.com/app/profile/ideal.kuci/viz/UnveilingtheDynamicsofBrazilianE-CommerceInsightsfromtheOlistDataset/IntroStory)
+- [Tableau Visualizations](https://public.tableau.com/app/profile/ideal.kuci/viz/UnveilingtheDynamicsofBrazilianE-CommerceInsightsfromtheOlistDataset/IntroStory)(https://public.tableau.com/app/profile/ideal.kuci/viz/UnveilingtheDynamicsofBrazilianE-CommerceInsightsfromtheOlistDataset/FullStory)
 
 ## Conclusions and Recommendations
 
